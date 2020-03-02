@@ -1,0 +1,80 @@
+body{
+  background-color: rgb(229, 235, 149);
+}
+.cadre {
+  background-color: rgb(1, 156, 130);
+  width: 30vw;
+  height: 25vw;
+  display: inline-block;
+  border-radius: 2vw;
+  padding-left: 2vw;
+  color: lavender;
+  line-height: 2vw;
+}
+.form {
+  border-radius: 2vw;
+  background-color: rgb(207, 207, 207);
+  width: 30vw;
+  height: 20vw;
+  display: inline-block;
+}
+.container {
+  margin: 5vw 17vw;
+}
+.input {
+
+  background-color: transparent;
+  border-radius: 0.7vw;
+  display: flex;
+  height: 3vw;
+  width: 25vw;
+  margin: 2vw 2vw;
+  font-size: 2vw;
+  border: 2px darkcyan solid;
+}
+#numberC {
+  position: relative;
+  top: 3vw;
+  font-size: 2vw;
+}
+#nameC {
+  position: relative;
+  top: 0.8vw;
+  font-size: 1.6vw;
+}
+#thruC {
+  position: relative;
+  left: 2vw;
+  top: 1.3vw;
+  text-align: right;
+  margin-right: 15vw;
+  font-size: 1.2vw;
+}
+#name {
+  width: 23vw;
+}
+#thru {
+  width: 7vw;
+}
+#puce {
+  width: 4vw;
+  position: relative;
+  top: 3vw;
+  left: 1vw;
+}
+#master {
+  width: 8vw;
+  position: fixed;
+  left: 38vw;
+  top: 18vw;
+}
+h2 {
+  display: inline-block;
+}
+h1{
+  font-size: 2.5vw;
+  display: inline-block;
+  position: relative;
+  top: 2vw;
+  left: 9vw;
+}
